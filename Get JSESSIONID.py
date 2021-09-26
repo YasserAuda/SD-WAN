@@ -16,3 +16,4 @@ session_cookies = session.cookies
 session.get(url, verify=False)
 cookies_dictionary = session_cookies.get_dict()
 print(cookies_dictionary)
+#https://github.com/YasserAuda/SD-WAN/
